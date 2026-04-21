@@ -15,7 +15,7 @@ Database Integration: Built using PHP and MySQL for dynamic data handling.
 * Implementing a **search filter** to find books by title or author.
 * Improving the UI/UX using a CSS framework like **Bootstrap**.
 * Enhancing security by implementing **password hashing** (BCrypt).
-* 
+
 
 ## 🛠 Tech Stack
 Backend: PHP
