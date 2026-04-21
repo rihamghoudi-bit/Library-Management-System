@@ -10,6 +10,13 @@ Data Listing: View the complete list of available books in the library.
 
 Database Integration: Built using PHP and MySQL for dynamic data handling.
 
+## 🚀 Future Improvements
+* Adding **input validation** to prevent malicious data injection.
+* Implementing a **search filter** to find books by title or author.
+* Improving the UI/UX using a CSS framework like **Bootstrap**.
+* Enhancing security by implementing **password hashing** (BCrypt).
+* 
+
 ## 🛠 Tech Stack
 Backend: PHP
 
@@ -41,3 +48,10 @@ Connecting PHP scripts with MySQL databases.
 
 Applying object-oriented principles in a real-world web context.
 connectivity using PHP and MySQL.
+
+## 💻 How to Run
+1. Clone this repository: `git clone https://github.com/rihamghoudi-bit/Library-Management-System.git`
+2. Move the project folder to your `htdocs` directory in **XAMPP**.
+3. Create a database in **phpMyAdmin** and import the SQL file.
+4. Update the `config.php` file with your database credentials.
+5. Open your browser and navigate to `http://localhost/Library-Management-System/`.
